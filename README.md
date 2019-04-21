@@ -1,12 +1,11 @@
 # CodeKatas
-Proyecto que contiene el resultado en código de diversos CodeKatas
 
 ## Kata1
-Contiene la implementación de 5 soluciones al problema de la búsqueda binaria de un entero en una lista de enteros preordenada:
+Contains 5 solutions to binary search of an integer inside a pre-ordered list of integers:
 
-  * Imperativa
-  * Recursiva
-  * Troceado imperativo
-  * Troceado recursivo
-  * Funcional
+  * Imperative
+  * Recursive
+  * Chunks
+  * Chunks (recursive)
+  * Functional
 
